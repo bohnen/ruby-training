@@ -1,0 +1,8 @@
+Force.com IDE
+force.migrate
+force.tutorial
+jquery
+play
+rails3
+ruby-scripting
+scala

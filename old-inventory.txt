@@ -6,3 +6,5 @@ play
 rails3
 ruby-scripting
 scala
+/temp/
+/recycler
